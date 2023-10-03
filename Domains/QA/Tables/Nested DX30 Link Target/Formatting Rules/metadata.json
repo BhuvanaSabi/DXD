@@ -1,0 +1,13 @@
+{
+  "Highlight Color": "#B3E5FC",
+  "Highlight Columns": "QA.Nested DX30 Link Target.Text,QA.Nested DX30 Link Target.Cinchy Id",
+  "Ordinal": 1.0,
+  "Row Condition": "[Text] IS NOT NULL",
+  "Table": "QA.Nested DX30 Link Target",
+  "Sync GUID": "ebccb3c2-10f1-4a94-b781-2a6f750EC5A5A2-B75F-481C-8675-A98288A4293E",
+  "ResolveLinks": {
+    "Highlight Color": "#B3E5FC",
+    "Highlight Columns": "QA.Nested DX30 Link Target.Cinchy Id,QA.Nested DX30 Link Target.Text",
+    "Table": "6dbb1fb9-91eb-468f-b2fe-f846e7748db9"
+  }
+}

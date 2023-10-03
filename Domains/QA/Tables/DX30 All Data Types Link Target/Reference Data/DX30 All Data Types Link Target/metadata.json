@@ -1,0 +1,18 @@
+{
+  "Changed Records": "IGNORE",
+  "Dropped Records": "IGNORE",
+  "Expiration Timestamp Field": null,
+  "Filter": null,
+  "Target Filter": null,
+  "Name": "DX30 All Data Types Link Target",
+  "New Records": "INSERT",
+  "Ordinal": 2.0,
+  "Sync Key": "QA.DX30 All Data Types Link Target.Text",
+  "Table": "QA.DX30 All Data Types Link Target",
+  "Sync GUID": "ebccb3c2-10f1-4a94-b781-2a6f75FDC9113C-FEE0-4ED8-B5E0-D6B8841BC1AE",
+  "ResolveLinks": {
+    "Expiration Timestamp Field": null,
+    "Sync Key": "QA.DX30 All Data Types Link Target.Text",
+    "Table": "bd3e092e-c1e3-46a8-9eac-6d221aac9be7"
+  }
+}

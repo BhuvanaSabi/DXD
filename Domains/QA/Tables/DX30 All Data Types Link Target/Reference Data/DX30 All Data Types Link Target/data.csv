@@ -1,0 +1,3 @@
+Bool,Choice,Date,Link,Link2,Multi Select Choice,Number,Text
+"True","1",2023-07-01 00:00:00,"nested1","","1,2",1,"a"
+"False","3",2023-07-03 00:00:00,"nested2","","3,4",3,"b"

@@ -1,0 +1,26 @@
+{
+  "API Result Format": "CSV",
+  "CQL": "\\Domains\\DXD\\Saved Queries\\DX30 SQ2 Updated\\query.sql",
+  "Description": "Query to get [QA].[DX30 All Data Types Link Target] data",
+  "Domain": "DXD",
+  "Groups With Design Access": "Cinchy Builders",
+  "Groups With Execute Access": null,
+  "Icon": "fa fa-adn",
+  "Icon Colour": "Gold",
+  "Name": "DX30 SQ2 Updated",
+  "Timeout": 60.0,
+  "Type": "Query (Approved Data Only)",
+  "Users With Design Access": null,
+  "Users With Execute Access": null,
+  "Sync GUID": "ebccb3c2-10f1-4a94-b781-2a6f75d75407_ebccb3c2-10f1-4a94-b781-2a6f75d75407_92c60de1-4a8a-466f-a789-769c9e36d40c",
+  "FocusColumns": "CQL",
+  "ResolveLinks": {
+    "Domain": "DXD",
+    "Groups With Design Access": "Cinchy Builders",
+    "Groups With Execute Access": null,
+    "Icon Colour": "Gold",
+    "Icon": "fa fa-adn",
+    "Users With Design Access": null,
+    "Users With Execute Access": null
+  }
+}
