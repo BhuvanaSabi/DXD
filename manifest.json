@@ -1,8 +1,8 @@
 [
   {
-    "Type": "metadata",
-    "Entity": "Data Experience Definitions",
-    "Path": "\\Data Experience Definitions\\SQDXD2POINT0\\metadata.json"
+    "Type": "model",
+    "Name": "DXDF - SQDXD2POINT0 - MODEL - Model.xml",
+    "Path": "\\Data Experience Definitions\\SQDXD2POINT0\\model.xml"
   },
   {
     "Type": "metadata",
@@ -21,8 +21,8 @@
   },
   {
     "Type": "metadata",
-    "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Entity": "Data Experience Definitions",
+    "Path": "\\Data Experience Definitions\\SQDXD2POINT0\\metadata.json"
   },
   {
     "Type": "metadata",
@@ -32,57 +32,67 @@
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
     "Entity": "Domains",
-    "Path": "\\Domains\\DXD\\metadata.json"
+    "Path": "\\Domains\\QA\\metadata.json"
+  },
+  {
+    "Type": "metadata",
+    "Entity": "Domains",
+    "Path": "\\Domains\\QA\\metadata.json"
+  },
+  {
+    "Type": "metadata",
+    "Entity": "Domains",
+    "Path": "\\Domains\\QA\\metadata.json"
   },
   {
     "Type": "metadata",
@@ -140,9 +150,19 @@
     "Path": "\\Domains\\DXD\\Saved Queries\\DX30 SQ2\\metadata.json"
   },
   {
+    "Type": "refdata-csv",
+    "Name": "DXDF - SQDXD2POINT0 - REFDATA - 00000001 - DX30 Nested DXD Link Target.csv",
+    "Path": "\\Domains\\QA\\Tables\\Nested DX30 Link Target\\Reference Data\\DX30 Nested DXD Link Target\\data.csv"
+  },
+  {
+    "Type": "refdata-xml",
+    "Name": "DXDF - SQDXD2POINT0 - REFDATA - 00000001 - DX30 Nested DXD Link Target.xml",
+    "Path": "\\Domains\\QA\\Tables\\Nested DX30 Link Target\\Reference Data\\DX30 Nested DXD Link Target\\config.xml"
+  },
+  {
     "Type": "metadata",
-    "Entity": "Saved Queries",
-    "Path": "\\Domains\\DXD\\Saved Queries\\DX30 SQ2\\metadata.json"
+    "Entity": "Data Experience Reference Data",
+    "Path": "\\Domains\\QA\\Tables\\Nested DX30 Link Target\\Reference Data\\DX30 Nested DXD Link Target\\metadata.json"
   },
   {
     "Value": "5.7.0",
