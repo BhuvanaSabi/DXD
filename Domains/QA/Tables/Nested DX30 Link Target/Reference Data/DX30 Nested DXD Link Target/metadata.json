@@ -1,0 +1,18 @@
+{
+  "Changed Records": "UPDATE",
+  "Dropped Records": "DELETE",
+  "Expiration Timestamp Field": null,
+  "Filter": null,
+  "Target Filter": null,
+  "Name": "DX30 Nested DXD Link Target",
+  "New Records": "INSERT",
+  "Ordinal": 1.0,
+  "Sync Key": "QA.Nested DX30 Link Target.Text",
+  "Table": "QA.Nested DX30 Link Target",
+  "Sync GUID": "14C98C17-E223-4948-A067-772BFD5A6DF1_6C817980-5469-4503-BD90-AC369E2B055D",
+  "ResolveLinks": {
+    "Expiration Timestamp Field": null,
+    "Sync Key": "QA.Nested DX30 Link Target.Text",
+    "Table": "6dbb1fb9-91eb-468f-b2fe-f846e7748db9"
+  }
+}

@@ -10,7 +10,7 @@
   "Name": "DX30 SQ1",
   "Timeout": 30.0,
   "Type": "Query (Approved Data Only)",
-  "Users With Design Access": "Administrator (admin)",
+  "Users With Design Access": null,
   "Users With Execute Access": null,
   "Sync GUID": "ebccb3c2-10f1-4a94-b781-2a6f75d75407_ebccb3c2-10f1-4a94-b781-2a6f75d75407_85acbaf3-5d93-463d-afb3-783d8d3210c7",
   "FocusColumns": "CQL",
@@ -20,7 +20,7 @@
     "Groups With Execute Access": null,
     "Icon Colour": "Red",
     "Icon": "fa fa-search",
-    "Users With Design Access": "Administrator (admin)",
+    "Users With Design Access": null,
     "Users With Execute Access": null
   }
 }

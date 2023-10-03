@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SQDXD2POINT0" version="1.0.0" xmlns="http://www.cinchy.co">
+  <Schema>
+    <Tables>
+      <Table name="Nested DX30 Link Target" domain="QA" guid="6dbb1fb9-91eb-468f-b2fe-f846e7748db9" icon="fa fa-table" iconColour="#002060">
+        <Columns>
+          <Text name="Text" guid="bd5d819d-32be-4fdc-a150-d88c451a032e" />
+        </Columns>
+        <UniqueConstraints />
+        <Indexes>
+          <Index name="Cinchy Default Index">
+            <Column>Approval State</Column>
+            <Column>Deleted</Column>
+          </Index>
+        </Indexes>
+      </Table>
+    </Tables>
+  </Schema>
+</Model>
