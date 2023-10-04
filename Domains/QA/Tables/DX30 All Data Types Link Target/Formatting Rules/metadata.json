@@ -2,7 +2,7 @@
   "Highlight Color": "#BBDEFB",
   "Highlight Columns": "QA.DX30 All Data Types Link Target.Date,QA.DX30 All Data Types Link Target.Bool,QA.DX30 All Data Types Link Target.Choice,QA.DX30 All Data Types Link Target.Link,QA.DX30 All Data Types Link Target.Cinchy Id,QA.DX30 All Data Types Link Target.Created,QA.DX30 All Data Types Link Target.Deleted",
   "Ordinal": 2.0,
-  "Row Condition": "[Text[] IS NOT NULL",
+  "Row Condition": "[Text] IS NOT NULL",
   "Table": "QA.DX30 All Data Types Link Target",
   "Sync GUID": "ebccb3c2-10f1-4a94-b781-2a6f7533CDC7F4-3892-4620-9F20-3C2BC6DF0512",
   "ResolveLinks": {

@@ -1,7 +1,7 @@
 {
   "Applets": null,
   "Data Sync Configurations": null,
-  "Formatting Rules": "[Text] IS NOT NULL,[Text[] IS NOT NULL",
+  "Formatting Rules": "[Text] IS NOT NULL,[Text] IS NOT NULL",
   "Groups": null,
   "Guid": "ebccb3c2-10f1-4a94-b781-2a6f75d75407",
   "Integrated Clients": null,
